@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Next.js , Node.js**
 
-- 👨‍💻 All of my projects are available at [https://qavishaikh-portfolio-com.netlify.app](https://qavishaikh-portfolio-com.netlify.app)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-022.web.app/](https://my-portfolio-022.web.app/)
 
 - 📫 How to reach me **qavi.shaikh11@gmail.com**
 
