@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **Next.js , Node.js**
+- 🌱 I’m currently learning **Next.js , Node.js , PHP**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-022.web.app/](https://my-portfolio-022.web.app/)
 
