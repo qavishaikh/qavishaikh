@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Qavi Shaikh</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web Developer from Pakistan</h3>
 <img align="right" alt="developer" width="400" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=6c09b952298e97be2aaa77beb9f41a487f733a74f64c62f3&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qavishaikh&label=Profile%20views&color=0e75b6&style=flat" alt="qavishaikh" /> </p>
