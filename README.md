@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Qavi Shaikh</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
+<h3 align="center">Founder OF Digital Web Creations</h3>
+<h3 align="center">Inventer of Home Doctor</h3>
 <h3 align="center">AI Learner</h3>
 <img align="right" alt="developer" width="400" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=6c09b952298e97be2aaa77beb9f41a487f733a74f64c62f3&rid=giphy.gif&ct=g">
 
