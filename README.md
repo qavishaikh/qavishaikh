@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qavishaikh&label=Profile%20views&color=0e75b6&style=flat" alt="qavishaikh" /> </p>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I was worked on **React.js**
+  
+- 🔭 I’m currently working on **React Native**
 
 - 🌱 I’m currently learning **Next.js , Node.js , PHP**
 
