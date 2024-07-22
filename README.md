@@ -12,7 +12,7 @@
 
 - 🔭 I was worked on **React.js**
 
--  🔭 I am a **Freelancer**
+-  🔭 I am a **Freelancer*
   
 - 🔭 I’m currently working on **React Native**
 
