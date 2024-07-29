@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 <h3 align="center">Founder OF Digital Web Creations</h3>
 <h3 align="center">Inventer of Home Doctor</h3>
+<h3 align="center">Mobile Application Developer</h3>
 <h3 align="center">AI Learner</h3>
 <h3 align="center">Teacher</h3>
 <h3 align="center">Researcher</h3>
